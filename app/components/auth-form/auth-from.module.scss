@@ -1,0 +1,30 @@
+.formDescriptionTitle { 
+    color: #151515;
+font-size: 32px;
+font-weight: 800;
+line-height: 40px;
+margin-bottom: 8px;
+}
+
+.formDescriptionText {
+max-width: 357px;
+    font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+margin-bottom: 48px;
+}
+
+.inputBlock{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-bottom: 108px;
+}
+
+.inputTitle {
+    font-size: 14px;
+font-weight: 800;
+line-height: 20px;
+margin-bottom: 8px;
+}
