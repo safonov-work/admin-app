@@ -1,0 +1,51 @@
+.button {
+	border-radius: 8px;
+	background: var(--Main, #3626a7);
+	width: 384px;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 24px;
+    color: #FFF;
+    border: none;
+    outline: none;
+    transition: ease-in-out .3s;
+    cursor: pointer;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    position: absolute;
+    &:hover {
+        background: var(--Main, #5042b9);
+    }
+    &:active {
+        transform: translateY(-5px);
+    }
+}
+
+
+
+.login {
+    width: 384px;
+    font-size: 14px;
+	font-weight: 600;
+	line-height: 24px;
+}
+
+.user { 
+    width: 376px;
+}
+
+
+.upgrade {
+    width: 336px;
+}
+
+.plan {
+    width: 156px;
+}
+
+.icon{
+    position: absolute;
+    left: 10px;
+    bottom: 9px;
+    right: 72px;
+}
