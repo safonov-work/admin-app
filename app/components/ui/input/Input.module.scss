@@ -1,0 +1,29 @@
+.input {
+	border-radius: 8px;
+	border: 1px solid #ebebed;
+	background: #fff;
+	width: 367px;
+    padding-top: 14px;
+    padding-left: 14px;
+    padding-bottom: 14px;
+    outline: none;
+    position: relative;
+}
+
+.small {
+    width: 204px;
+    padding-left: 36px;
+}
+
+.medium {
+    width: 220px;
+}
+
+.jobIcon {
+    width: 20px;
+    height: 20px;
+    top: 21px;
+    left: 18px;
+    position: absolute;
+    z-index: 2;
+}
