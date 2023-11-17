@@ -1,4 +1,3 @@
-import { FC } from 'react';
 import { InputProps } from './Input.props';
 import styles from './Input.module.scss';
 import cn from 'classnames';
